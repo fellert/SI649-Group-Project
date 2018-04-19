@@ -38,11 +38,11 @@
 		line-height: 1;
 	}
 
-	html, body {
+	/*html, body {
 		margin: 0;
 		max-height: 100%;
 		overflow: hidden
-	}
+	}*/
 
 	ol, ul {
 		list-style: none;
